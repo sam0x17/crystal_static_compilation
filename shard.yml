@@ -1,0 +1,13 @@
+name: crystal_static_compilation
+version: 0.1.0
+
+authors:
+  - Sam Johnson <sam@durosoft.com>
+
+targets:
+  crystal_static_compilation:
+    main: src/crystal_static_compilation.cr
+
+crystal: 0.26.1
+
+license: MIT
